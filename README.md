@@ -1,4 +1,4 @@
-# Medical-QA System: A CPU-Friendly AI-Powered Medical Chatbot
+# Medical-QA System: AI-Powered Medical Chatbot
 ## Overview
 Medical-QA System is an AI-powered chatbot designed to answer medical queries efficiently using Llama 2, Pinecone, and LangChain. This chatbot transforms static PDF-based medical knowledge into an interactive experience, enabling users to get reliable health-related answers instantly—all while running on a CPU-friendly setup.
 
